@@ -79,8 +79,8 @@ nav img {
 }
 
 nav p {
-    margin: 0;
-    padding: 1px;
+    margin:0;
+    padding:1rem;
     font-size:.75rem;
     background-color:#242F40;
     color:#B1BED3;
@@ -116,7 +116,7 @@ nav ul a {
 }
 
 nav :nth-child(2) {
-    margin:0;
+    margin-top:0;
 }
 
 nav a:hover {
